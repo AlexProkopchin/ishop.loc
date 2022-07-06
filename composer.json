@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "ishop\\": "vendor/ishop/core",
+            "app\\": "app"
+        }
+    },
+    "require": {
+        "vlucas/valitron": "^1.4",
+        "swiftmailer/swiftmailer": "^6.3"
+    }
+}
